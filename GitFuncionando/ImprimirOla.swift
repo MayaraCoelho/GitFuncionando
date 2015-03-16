@@ -12,6 +12,7 @@ class ImprimirOla{
     
     func imprimir()
     {
-        println("Ola!!!")
+        println("Ola, Fulaninho Legal!!!")
+        println("Meu nome é Ana, prazer.")
     }
 }
