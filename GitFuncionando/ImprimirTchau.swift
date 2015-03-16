@@ -12,6 +12,7 @@ class ImprimirTchau{
  //teste    
     func imprimir()
     {
-        println("Tchau!!!")
+        println("É hora de dar tchau!!!")
     }
+    
 }
